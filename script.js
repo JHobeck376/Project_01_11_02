@@ -1,7 +1,7 @@
 /*  Project 01_11_02
 
-    Author: 
-    Date:   
+    Author: Jacob Hobeck
+    Date:   8.31.18
 
     Filename: script.js
 */
